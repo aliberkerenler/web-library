@@ -269,7 +269,7 @@ pytest
 ## 📝 Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
-Ali Berke Erenler (@aliberkerenler) - Ömer Faruk Toycu (@omertıycu)
+Ali Berke Erenler (@aliberkerenler) - Ömer Faruk Toycu (@omertoycu)
 
 ## 👥 Katkıda Bulunma
 
